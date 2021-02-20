@@ -1,0 +1,1 @@
+# mindship_fullstack_assignment
